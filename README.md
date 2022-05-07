@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleem. 
 - 👀 I’m interested in pretty much everything.
-- 🌱 I’m currently brushing up DSA skills and working on different technologies
+- 🌱 I’m currently building my github as and when I'm learning
 
 <!---
 aleem004/aleem004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
